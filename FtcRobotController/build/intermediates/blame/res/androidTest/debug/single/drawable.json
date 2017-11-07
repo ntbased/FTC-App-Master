@@ -1,11 +1,23 @@
 [
     {
+        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/button_shape.xml",
+        "source": "/Users/DanielLuo/.android/build-cache/e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4/output/res/drawable/button_shape.xml"
+    },
+    {
+        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/icon_robotcontroller.png",
+        "source": "/Users/DanielLuo/.android/build-cache/b45b7cb3e6a6a8a2b26f6d0f30b9159b09527bf8/output/res/drawable/icon_robotcontroller.png"
+    },
+    {
         "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/feedback_shape_orange.xml",
         "source": "/Users/DanielLuo/.android/build-cache/89ef18b93fce65d6cb1bf31bc46508f72129e9f1/output/res/drawable/feedback_shape_orange.xml"
     },
     {
         "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/black_border.xml",
         "source": "/Users/DanielLuo/.android/build-cache/ab7030a2e47d7da2286997238e62883fd2d143f9/output/res/drawable/black_border.xml"
+    },
+    {
+        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/icon_menu.png",
+        "source": "/Users/DanielLuo/.android/build-cache/b45b7cb3e6a6a8a2b26f6d0f30b9159b09527bf8/output/res/drawable/icon_menu.png"
     },
     {
         "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/button_shape.xml",
@@ -16,7 +28,15 @@
         "source": "/Users/DanielLuo/.android/build-cache/f69326fd4000cfa196a138af972e3d73edab71a6/output/res/drawable/icon_robotcontroller.png"
     },
     {
+        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/feedback_shape_orange.xml",
+        "source": "/Users/DanielLuo/.android/build-cache/c22cb0a3b8c8bbd24c03acf63db3298c1598a23b/output/res/drawable/feedback_shape_orange.xml"
+    },
+    {
         "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/icon_menu.png",
         "source": "/Users/DanielLuo/.android/build-cache/f69326fd4000cfa196a138af972e3d73edab71a6/output/res/drawable/icon_menu.png"
+    },
+    {
+        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/black_border.xml",
+        "source": "/Users/DanielLuo/.android/build-cache/ce57cb7f22ebcb4a9668c9d4c434c6d21ad561bd/output/res/drawable/black_border.xml"
     }
 ]

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/DanielLuo/.android/build-cache/89ef18b93fce65d6cb1bf31bc46508f72129e9f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5d8f95b7b91c8a132c514f5dbe75340305e6883b">
+        <dex dex="/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/pre-dexed/debug/classes_e136198d87ad27a73135e0d7f59159bca15399ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DanielLuo/.android/build-cache/ab7030a2e47d7da2286997238e62883fd2d143f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ce86a6340781abf3d876eba190efa34ae92d2f9">
+        <dex dex="/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/pre-dexed/debug/classes_56c3c9f1e0b0486be416f050dfdac2117cbb49df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DanielLuo/.android/build-cache/89ef18b93fce65d6cb1bf31bc46508f72129e9f1/output/jars/libs/gson-extras-0.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b30c2655badcc7ce97f84e49f777b7dd154bad57">
+        <dex dex="/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/pre-dexed/debug/gson-extras-0.2.1_2d72fee35a4e29056ed9b394905d1e744ceb1331.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DanielLuo/.android/build-cache/89ef18b93fce65d6cb1bf31bc46508f72129e9f1/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91b46366eb9f8203073ee2935087c097c888c0ed">
+        <dex dex="/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/pre-dexed/debug/Vuforia_944f63df89abb211aaa05d1b0edd3820bd53ecd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7558c70f3b0b473ca494059b37f16ca880ac43fd">
+        <dex dex="/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/pre-dexed/debug/classes_047a0ca3dd2045fc62f500b25a5977fc5672956c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DanielLuo/.android/build-cache/f69326fd4000cfa196a138af972e3d73edab71a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e444b561b0feba789cac93c5db61f08ef8c25ee6">
+        <dex dex="/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/pre-dexed/debug/classes_e3908fb4ec665c660269effdf75dcf5d060f83e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DanielLuo/.android/build-cache/643301b33ee4d1cfebaf72e5dd1b2d88846ba187/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6c6d1584a392ebfee01efd98e6caaf6a9e5ac51d">
+        <dex dex="/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/pre-dexed/debug/classes_3c1a6d02d3f0d83444f6e74b5b56fd12818cdc93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DanielLuo/.android/build-cache/960d0705248e3f4bee0be5f7c511173aa303c0b4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/pre-dexed/debug/classes_4e84ed6e988c9f37116d6bda4cd36a5ed977cb0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DanielLuo/.android/build-cache/89ef18b93fce65d6cb1bf31bc46508f72129e9f1/output/jars/libs/javac.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c576121aac49e547b39aedfb1daa29782db4166c">
+        <dex dex="/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/pre-dexed/debug/javac_6b3089962dcb3288c6d57ec56745ff9962e6c52b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DanielLuo/.android/build-cache/551ba927de06086ad1062b6c958cedd5613ce4cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/pre-dexed/debug/classes_f5c019315eba33a3328ae76f3a0b544a391a1a5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4fff503d5a367f0f4b15f83381fb9ac3251b7a53">
+        <dex dex="/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/pre-dexed/debug/classes_d462092e855bc03f7108fa3c4c00d600efe0c76d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DanielLuo/.android/build-cache/89ef18b93fce65d6cb1bf31bc46508f72129e9f1/output/jars/libs/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e118dd0900e4a18fb928ebb8df2d9fbda78f2b5d">
+        <dex dex="/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/pre-dexed/debug/gson-2.8.0_4a21e0c144576aa78bd4dde597120164810e11a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DanielLuo/.android/build-cache/89ef18b93fce65d6cb1bf31bc46508f72129e9f1/output/jars/libs/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a214d3b1b12e72f4fb0d5d5d8d0ec43c96de2b5">
+        <dex dex="/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_b80a8a39a4387b6e1004ab2e6d03b32194d910c0.jar" />
+    </item>
+
+</items>

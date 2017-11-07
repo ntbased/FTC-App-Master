@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/res/merged/debug/xml/advanced_rc_settings.xml",
+        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/xml/advanced_rc_settings.xml"
+    },
+    {
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/res/merged/debug/xml/maxmodules.xml",
+        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/xml/maxmodules.xml"
+    },
+    {
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/res/merged/debug/xml/pushbot.xml",
+        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/res/merged/debug/xml/k9legacybot.xml",
+        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/res/merged/debug/xml/k9usbbot.xml",
+        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/res/merged/debug/xml/rev_scoot.xml",
+        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/xml/rev_scoot.xml"
+    },
+    {
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/res/merged/debug/xml/pushbotsens.xml",
+        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/res/merged/debug/xml/app_settings.xml",
+        "source": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/bundles/default/res/xml/app_settings.xml"
+    },
+    {
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/res/merged/debug/xml/device_filter.xml",
+        "source": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/bundles/default/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/res/merged/debug/xml/squarebot.xml",
+        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/xml/squarebot.xml"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/Users/DanielLuo/.android/build-cache/89ef18b93fce65d6cb1bf31bc46508f72129e9f1/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 187
+                    }
+                }
+            }
+        ]
+    }
+]

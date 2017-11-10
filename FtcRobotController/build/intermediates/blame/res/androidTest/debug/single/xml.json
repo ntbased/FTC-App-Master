@@ -1,82 +1,122 @@
 [
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/app_settings.xml",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/bundles/debug/res/xml/app_settings.xml"
+        "merged": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\k9legacybot.xml",
+        "source": "C:\\Users\\DanielLuo\\.android\\build-cache\\f38bd23cf2e3b0389880883bc15a69ce15ec1afb\\output\\res\\xml\\k9legacybot.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9legacybot.xml",
-        "source": "/Users/DanielLuo/.android/build-cache/e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4/output/res/xml/k9legacybot.xml"
+        "merged": "C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\k9legacybot.xml",
+        "source": "C:\\Users\\DanielLuo\\.android\\build-cache\\e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4\\output\\res\\xml\\k9legacybot.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/maxmodules.xml",
-        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/xml/maxmodules.xml"
+        "merged": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\k9usbbot.xml",
+        "source": "C:\\Users\\Nicolas\\.android\\build-cache\\b79d7fef76c4047e1619e0205c4e10177e9f8688\\output\\res\\xml\\k9usbbot.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbotsens.xml",
-        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/xml/pushbotsens.xml"
+        "merged": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\rev_scoot.xml",
+        "source": "C:\\Users\\DanielLuo\\.android\\build-cache\\f38bd23cf2e3b0389880883bc15a69ce15ec1afb\\output\\res\\xml\\rev_scoot.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/squarebot.xml",
-        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/xml/squarebot.xml"
+        "merged": "C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\advanced_rc_settings.xml",
+        "source": "C:\\Users\\DanielLuo\\.android\\build-cache\\e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4\\output\\res\\xml\\advanced_rc_settings.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/device_filter.xml",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/bundles/debug/res/xml/device_filter.xml"
+        "merged": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\k9legacybot.xml",
+        "source": "C:\\Users\\Nicolas\\.android\\build-cache\\b79d7fef76c4047e1619e0205c4e10177e9f8688\\output\\res\\xml\\k9legacybot.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/app_settings.xml",
-        "source": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/bundles/debug/res/xml/app_settings.xml"
+        "merged": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\maxmodules.xml",
+        "source": "C:\\Users\\Nicolas\\.android\\build-cache\\b79d7fef76c4047e1619e0205c4e10177e9f8688\\output\\res\\xml\\maxmodules.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/advanced_rc_settings.xml",
-        "source": "/Users/DanielLuo/.android/build-cache/e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4/output/res/xml/advanced_rc_settings.xml"
+        "merged": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\squarebot.xml",
+        "source": "C:\\Users\\Nicolas\\.android\\build-cache\\b79d7fef76c4047e1619e0205c4e10177e9f8688\\output\\res\\xml\\squarebot.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/device_filter.xml",
-        "source": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/bundles/debug/res/xml/device_filter.xml"
+        "merged": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\advanced_rc_settings.xml",
+        "source": "C:\\Users\\Nicolas\\.android\\build-cache\\b79d7fef76c4047e1619e0205c4e10177e9f8688\\output\\res\\xml\\advanced_rc_settings.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9usbbot.xml",
-        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/xml/k9usbbot.xml"
+        "merged": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\rev_scoot.xml",
+        "source": "C:\\Users\\Nicolas\\.android\\build-cache\\b79d7fef76c4047e1619e0205c4e10177e9f8688\\output\\res\\xml\\rev_scoot.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbot.xml",
-        "source": "/Users/DanielLuo/.android/build-cache/e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4/output/res/xml/pushbot.xml"
+        "merged": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\device_filter.xml",
+        "source": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\xml\\device_filter.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9legacybot.xml",
-        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/xml/k9legacybot.xml"
+        "merged": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\advanced_rc_settings.xml",
+        "source": "C:\\Users\\DanielLuo\\.android\\build-cache\\f38bd23cf2e3b0389880883bc15a69ce15ec1afb\\output\\res\\xml\\advanced_rc_settings.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/advanced_rc_settings.xml",
-        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/xml/advanced_rc_settings.xml"
+        "merged": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\app_settings.xml",
+        "source": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\xml\\app_settings.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/maxmodules.xml",
-        "source": "/Users/DanielLuo/.android/build-cache/e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4/output/res/xml/maxmodules.xml"
+        "merged": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\app_settings.xml",
+        "source": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\xml\\app_settings.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9usbbot.xml",
-        "source": "/Users/DanielLuo/.android/build-cache/e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4/output/res/xml/k9usbbot.xml"
+        "merged": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\squarebot.xml",
+        "source": "C:\\Users\\DanielLuo\\.android\\build-cache\\f38bd23cf2e3b0389880883bc15a69ce15ec1afb\\output\\res\\xml\\squarebot.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/rev_scoot.xml",
-        "source": "/Users/DanielLuo/.android/build-cache/e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4/output/res/xml/rev_scoot.xml"
+        "merged": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\pushbotsens.xml",
+        "source": "C:\\Users\\Nicolas\\.android\\build-cache\\b79d7fef76c4047e1619e0205c4e10177e9f8688\\output\\res\\xml\\pushbotsens.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/rev_scoot.xml",
-        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/xml/rev_scoot.xml"
+        "merged": "C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\k9usbbot.xml",
+        "source": "C:\\Users\\DanielLuo\\.android\\build-cache\\e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4\\output\\res\\xml\\k9usbbot.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbot.xml",
-        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/xml/pushbot.xml"
+        "merged": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\maxmodules.xml",
+        "source": "C:\\Users\\DanielLuo\\.android\\build-cache\\f38bd23cf2e3b0389880883bc15a69ce15ec1afb\\output\\res\\xml\\maxmodules.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbotsens.xml",
-        "source": "/Users/DanielLuo/.android/build-cache/e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4/output/res/xml/pushbotsens.xml"
+        "merged": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\k9usbbot.xml",
+        "source": "C:\\Users\\DanielLuo\\.android\\build-cache\\f38bd23cf2e3b0389880883bc15a69ce15ec1afb\\output\\res\\xml\\k9usbbot.xml"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/squarebot.xml",
-        "source": "/Users/DanielLuo/.android/build-cache/e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4/output/res/xml/squarebot.xml"
+        "merged": "C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\squarebot.xml",
+        "source": "C:\\Users\\DanielLuo\\.android\\build-cache\\e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4\\output\\res\\xml\\squarebot.xml"
+    },
+    {
+        "merged": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\pushbotsens.xml",
+        "source": "C:\\Users\\DanielLuo\\.android\\build-cache\\f38bd23cf2e3b0389880883bc15a69ce15ec1afb\\output\\res\\xml\\pushbotsens.xml"
+    },
+    {
+        "merged": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\device_filter.xml",
+        "source": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\maxmodules.xml",
+        "source": "C:\\Users\\DanielLuo\\.android\\build-cache\\e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4\\output\\res\\xml\\maxmodules.xml"
+    },
+    {
+        "merged": "C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\rev_scoot.xml",
+        "source": "C:\\Users\\DanielLuo\\.android\\build-cache\\e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4\\output\\res\\xml\\rev_scoot.xml"
+    },
+    {
+        "merged": "C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\pushbotsens.xml",
+        "source": "C:\\Users\\DanielLuo\\.android\\build-cache\\e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4\\output\\res\\xml\\pushbotsens.xml"
+    },
+    {
+        "merged": "C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\pushbot.xml",
+        "source": "C:\\Users\\DanielLuo\\.android\\build-cache\\e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4\\output\\res\\xml\\pushbot.xml"
+    },
+    {
+        "merged": "C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\app_settings.xml",
+        "source": "C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\xml\\app_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\device_filter.xml",
+        "source": "C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\pushbot.xml",
+        "source": "C:\\Users\\DanielLuo\\.android\\build-cache\\f38bd23cf2e3b0389880883bc15a69ce15ec1afb\\output\\res\\xml\\pushbot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\pushbot.xml",
+        "source": "C:\\Users\\Nicolas\\.android\\build-cache\\b79d7fef76c4047e1619e0205c4e10177e9f8688\\output\\res\\xml\\pushbot.xml"
     }
 ]

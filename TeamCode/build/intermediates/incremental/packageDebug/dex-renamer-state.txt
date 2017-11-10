@@ -1,4 +1,7 @@
-#Mon Nov 06 17:43:30 PST 2017
-base.0=/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+#Fri Nov 10 12:46:47 MST 2017
+base.0=C\:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\TeamCode\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1b9349fa7b8e22a60ec9433e47a25f7821f4ca5b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\TeamCode\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c33bea69ebfafc1620c489b1b964aec11c2cb9b5\\classes.dex
+base.1=C\:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\TeamCode\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c33bea69ebfafc1620c489b1b964aec11c2cb9b5
+file.0=C\:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\TeamCode\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1b9349fa7b8e22a60ec9433e47a25f7821f4ca5b\\classes.dex

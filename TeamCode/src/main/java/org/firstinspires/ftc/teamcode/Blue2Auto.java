@@ -154,7 +154,7 @@ public class Blue2Auto extends LinearOpMode {
         telemetry.update();
 
         waitForStart();
-// test
+
         relicTrackables.activate();
 
         while (opModeIsActive()) {

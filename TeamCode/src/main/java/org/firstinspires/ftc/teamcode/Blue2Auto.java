@@ -315,7 +315,7 @@ public class Blue2Auto extends LinearOpMode {
     }
 
     // Udder milk
-    System.out.println("udder");
+    //System.out.println("udder");
 
 
 }

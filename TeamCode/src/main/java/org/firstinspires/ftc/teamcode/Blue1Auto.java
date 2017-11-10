@@ -212,15 +212,15 @@ public class Blue1Auto extends LinearOpMode {
                 robot.SideMotor.setPower(-0.5);
                 sleep(200);
                 robot.SideMotor.setPower(0);
-                encoderDrive(1, 11.7, -11.7, 1.0);
+                encoderDrive(1, 11.0, -11.0, 1.0);
 
                 if (vuMark == RelicRecoveryVuMark.RIGHT){
-                    encoderDrive(0.5, -11, 11, 0.4);
+                    //encoderDrive(0.5, -11, 11, 0.4);
                     encoderDrive(1, 5, 5, 0.3);
                     break;
                 }
                 if (vuMark == RelicRecoveryVuMark.CENTER){
-                    encoderDrive(0.5, -11, 11, 0.4);
+                    //encoderDrive(0.5, -11, 11, 0.4);
                     encoderDrive(1, 5, 5, 0.3);
                     robot.SideMotor.setPower(-1);
                     sleep(600);
@@ -229,7 +229,7 @@ public class Blue1Auto extends LinearOpMode {
                     break;
                 }
                 if (vuMark == RelicRecoveryVuMark.LEFT){
-                    encoderDrive(0.5, 10, -10, 0.3);
+                    //encoderDrive(0.5, 10, -10, 0.3);
                     encoderDrive(1, 5, 5, 0.3);
                     robot.SideMotor.setPower(-1);
                     sleep(750);

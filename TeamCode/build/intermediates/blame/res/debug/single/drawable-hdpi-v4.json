@@ -1,26 +1,34 @@
 [
     {
-        "merged": "C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_shape.xml",
-        "source": "C:\\Users\\DanielLuo\\.android\\build-cache\\e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4\\output\\res\\drawable-hdpi-v4\\button_shape.xml"
+        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/bundles/default/res/drawable-hdpi-v4/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ic_launcher.png"
+        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_shape.xml",
-        "source": "C:\\Users\\DanielLuo\\.android\\build-cache\\f38bd23cf2e3b0389880883bc15a69ce15ec1afb\\output\\res\\drawable-hdpi-v4\\button_shape.xml"
+        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_shape.xml",
+        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\f38bd23cf2e3b0389880883bc15a69ce15ec1afb\\output\\res\\drawable-hdpi-v4\\button_shape.xml"
     },
     {
-        "merged": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_shape.xml",
-        "source": "C:\\Users\\Nicolas\\.android\\build-cache\\b79d7fef76c4047e1619e0205c4e10177e9f8688\\output\\res\\drawable-hdpi-v4\\button_shape.xml"
+        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_shape.xml",
+        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\.android\\build-cache\\b79d7fef76c4047e1619e0205c4e10177e9f8688\\output\\res\\drawable-hdpi-v4\\button_shape.xml"
     },
     {
-        "merged": "C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ic_launcher.png"
+        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_shape.xml",
+        "source": "/Users/DanielLuo/.android/build-cache/e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4/output/res/drawable-hdpi-v4/button_shape.xml"
     },
     {
-        "merged": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ic_launcher.png"
+        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_shape.xml",
+        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4\\output\\res\\drawable-hdpi-v4\\button_shape.xml"
+    },
+    {
+        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ic_launcher.png"
     }
 ]

@@ -84,7 +84,7 @@ public class TankDrive extends LinearOpMode {
             //robot.FRMotor.setPower(Forward*0.65*Rt);
             //robot.BRMotor.setPower(Forward*0.65*Rt);
 
-            robot.arm.setPower(gamepad2.right_stick_y);
+            //robot.arm.setPower(gamepad2.right_stick_y*0.5);
 
             //robot.SideMotor.setPower(Side/2);
 

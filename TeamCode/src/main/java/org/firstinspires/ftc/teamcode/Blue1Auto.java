@@ -196,10 +196,10 @@ public class Blue1Auto extends LinearOpMode {
                 }
 
 
-                robot.armleft.setPosition(0);
+                robot.armleft.setPosition(0); //your mother
                 sleep(300);
                 robot.SideMotor.setPower(0.3);
-                sleep(240);
+                sleep(238);
                 robot.SideMotor.setPower(0);
                 sleep(100);
                 robot.armleft.setPosition(0.75);

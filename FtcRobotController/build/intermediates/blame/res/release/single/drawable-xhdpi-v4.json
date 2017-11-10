@@ -1,9 +1,10 @@
 [
     {
-        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/release/drawable-xhdpi-v4/icon_menu.png",
-        "source": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/src/main/res/drawable-xhdpi/icon_menu.png"
+        "merged": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_launcher.png",
         "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/src/main/res/drawable-xhdpi/ic_launcher.png"
     },
@@ -22,5 +23,25 @@
     {
         "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/release/drawable-xhdpi-v4/icon_menu.png",
         "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/src/main/res/drawable-xhdpi/icon_menu.png"
+=======
+        "merged": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\icon_robotcontroller.png",
+        "source": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\src\\main\\res\\drawable-xhdpi\\icon_robotcontroller.png"
+    },
+    {
+        "merged": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\icon_robotcontroller.png",
+        "source": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\src\\main\\res\\drawable-xhdpi\\icon_robotcontroller.png"
+    },
+    {
+        "merged": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\icon_menu.png",
+        "source": "C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\src\\main\\res\\drawable-xhdpi\\icon_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\icon_menu.png",
+        "source": "C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\src\\main\\res\\drawable-xhdpi\\icon_menu.png"
+>>>>>>> 5d0029371acd2925847c29fbb4bfecbbcef78dd8
     }
 ]

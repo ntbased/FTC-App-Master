@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <merger version="3"><dataSet config="main"><source path="/Users/DanielLuo/Documents/GitHub/FTC-App-Master/TeamCode/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/DanielLuo/Documents/GitHub/FTC-App-Master/TeamCode/src/debug/shaders"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main"><source path="C:\Users\Nicolas\Documents\GitHub\FTC-App-Master\TeamCode\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\Nicolas\Documents\GitHub\FTC-App-Master\TeamCode\src\debug\shaders"/></dataSet></merger>
+>>>>>>> 5d0029371acd2925847c29fbb4bfecbbcef78dd8

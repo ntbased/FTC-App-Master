@@ -79,26 +79,30 @@ public class TankDrive extends LinearOpMode {
                 sleep(1000);
             }
 
-            //robot.BLMotor.setPower(Forward*Lt);
-            //robot.FLMotor.setPower(Forward*Lt);
-            //robot.FRMotor.setPower(Forward*0.65*Rt);
-            //robot.BRMotor.setPower(Forward*0.65*Rt);
+            robot.BLMotor.setPower(Forward*Lt);
+            robot.FLMotor.setPower(Forward*Lt);
+            robot.FRMotor.setPower(Forward*0.65*Rt);
+            robot.BRMotor.setPower(Forward*0.65*Rt);
 
-            //robot.arm.setPower(gamepad2.right_stick_y*0.5);
+            robot.arm.setPower(gamepad2.right_stick_y*0.4);
 
-            //robot.SideMotor.setPower(Side/2);
+            robot.SideMotor.setPower(Side/2);
 
             telemetry.addData("Rt", Rt);
             telemetry.addData("Lt", Lt);
             telemetry.addData("Forward", Forward);
             telemetry.addData("hi",sp);
 
-            
+
             if(gamepad1.x){
-                //robot.armleft.setPosition(0);
+                robot.clawleft.setPosition(0);
+                robot.clawright.setPosition(0);
+
             }
-            if(gamepad1.y){
-                //robot.armleft.setPosition(0.75);
+            if(gamepad1.b){
+                robot.clawleft.setPosition(0.75);
+                robot.clawleft.setPosition(0.75);
+
             }
 
         }

@@ -197,6 +197,9 @@ public class Blue2Auto extends LinearOpMode {
                 }
 
 
+
+
+
                 robot.armleft.setPosition(0);
                 sleep(300);
                 robot.SideMotor.setPower(0.3);
@@ -309,13 +312,10 @@ public class Blue2Auto extends LinearOpMode {
             robot.FRMotor.setMode(DcMotor.RunMode.RUN_USING_ENCODER);
             robot.BLMotor.setMode(DcMotor.RunMode.RUN_USING_ENCODER);
             robot.BRMotor.setMode(DcMotor.RunMode.RUN_USING_ENCODER);
-
             //  sleep(250);   // optional pause after each move
         }
     }
 
-    // Udder milk
-    //System.out.println("udder");
-
 
 }
+

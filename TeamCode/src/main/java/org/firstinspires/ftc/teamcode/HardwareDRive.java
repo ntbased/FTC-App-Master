@@ -31,8 +31,10 @@ public class HardwareDRive
     public DcMotor SideMotor   = null;
     public DcMotor GreenMotor   = null;
     public Servo armleft = null;
-    public Servo armright = null;
+    public Servo clawleft = null;
+    public Servo clawright = null;
     public DcMotor arm = null;
+
     /* local OpMode members. */
     HardwareMap hwMap           =  null;
     private ElapsedTime period  = new ElapsedTime();
@@ -55,7 +57,9 @@ public class HardwareDRive
         arm = hwMap.dcMotor.get("arm");
         SideMotor = hwMap.dcMotor.get("sidedrive");
         armleft  = hwMap.get(Servo.class, "armleft");
-        armright  = hwMap.get(Servo.class, "armright");
+        clawleft  = hwMap.get(Servo.class, "clawleft");
+        clawright  = hwMap.get(Servo.class, "clawright");
+
         //BlueMotor   = hwMap.dcMotor.get("Blue");
         //GreenMotor   = hwMap.dcMotor.get("Green");
         FLMotor.setDirection(DcMotor.Direction.REVERSE); // Set to REVERSE if using AndyMark motors

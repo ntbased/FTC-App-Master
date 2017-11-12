@@ -1,18 +1,6 @@
 [
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/ic_launcher.png",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
     }
 ]

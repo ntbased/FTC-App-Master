@@ -1,178 +1,46 @@
 [
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\cube_mesh_fragment_shader.glsl",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\.android\\build-cache\\3cb378977ccd83adf9fd3245cbdea78f286649d3\\output\\res\\raw\\cube_mesh_fragment_shader.glsl"
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/warningmessage.wav",
+        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/raw/warningmessage.wav"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\errormessage.wav",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\f38bd23cf2e3b0389880883bc15a69ce15ec1afb\\output\\res\\raw\\errormessage.wav"
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/nxtstartupsound.wav",
+        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/raw/nxtstartupsound.wav"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/simple_vertex_shader.glsl",
-        "source": "/Users/DanielLuo/.android/build-cache/c22cb0a3b8c8bbd24c03acf63db3298c1598a23b/output/res/raw/simple_vertex_shader.glsl"
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/errormessage.wav",
+        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/raw/errormessage.wav"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\texture_fragment_shader.glsl",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\89ef18b93fce65d6cb1bf31bc46508f72129e9f1\\output\\res\\raw\\texture_fragment_shader.glsl"
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/texture_fragment_shader.glsl",
+        "source": "/Users/DanielLuo/.android/build-cache/89ef18b93fce65d6cb1bf31bc46508f72129e9f1/output/res/raw/texture_fragment_shader.glsl"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\warningmessage.wav",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\.android\\build-cache\\b79d7fef76c4047e1619e0205c4e10177e9f8688\\output\\res\\raw\\warningmessage.wav"
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/texture_vertex_shader.glsl",
+        "source": "/Users/DanielLuo/.android/build-cache/89ef18b93fce65d6cb1bf31bc46508f72129e9f1/output/res/raw/texture_vertex_shader.glsl"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/texture_fragment_shader.glsl",
-        "source": "/Users/DanielLuo/.android/build-cache/c22cb0a3b8c8bbd24c03acf63db3298c1598a23b/output/res/raw/texture_fragment_shader.glsl"
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/chimeconnect.wav",
+        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/raw/chimeconnect.wav"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\color_fragment_shader.glsl",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\.android\\build-cache\\3cb378977ccd83adf9fd3245cbdea78f286649d3\\output\\res\\raw\\color_fragment_shader.glsl"
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/cube_mesh_vertex_shader.glsl",
+        "source": "/Users/DanielLuo/.android/build-cache/89ef18b93fce65d6cb1bf31bc46508f72129e9f1/output/res/raw/cube_mesh_vertex_shader.glsl"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/chimeconnect.wav",
-        "source": "/Users/DanielLuo/.android/build-cache/e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4/output/res/raw/chimeconnect.wav"
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/chimedisconnect.wav",
+        "source": "/Users/DanielLuo/.android/build-cache/f38bd23cf2e3b0389880883bc15a69ce15ec1afb/output/res/raw/chimedisconnect.wav"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\warningmessage.wav",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4\\output\\res\\raw\\warningmessage.wav"
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/cube_mesh_fragment_shader.glsl",
+        "source": "/Users/DanielLuo/.android/build-cache/89ef18b93fce65d6cb1bf31bc46508f72129e9f1/output/res/raw/cube_mesh_fragment_shader.glsl"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\color_fragment_shader.glsl",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\89ef18b93fce65d6cb1bf31bc46508f72129e9f1\\output\\res\\raw\\color_fragment_shader.glsl"
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/color_fragment_shader.glsl",
+        "source": "/Users/DanielLuo/.android/build-cache/89ef18b93fce65d6cb1bf31bc46508f72129e9f1/output/res/raw/color_fragment_shader.glsl"
     },
     {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\texture_fragment_shader.glsl",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\.android\\build-cache\\3cb378977ccd83adf9fd3245cbdea78f286649d3\\output\\res\\raw\\texture_fragment_shader.glsl"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\cube_mesh_vertex_shader.glsl",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\.android\\build-cache\\3cb378977ccd83adf9fd3245cbdea78f286649d3\\output\\res\\raw\\cube_mesh_vertex_shader.glsl"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\chimedisconnect.wav",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\.android\\build-cache\\b79d7fef76c4047e1619e0205c4e10177e9f8688\\output\\res\\raw\\chimedisconnect.wav"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\nxtstartupsound.wav",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\f38bd23cf2e3b0389880883bc15a69ce15ec1afb\\output\\res\\raw\\nxtstartupsound.wav"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/texture_vertex_shader.glsl",
-        "source": "/Users/DanielLuo/.android/build-cache/c22cb0a3b8c8bbd24c03acf63db3298c1598a23b/output/res/raw/texture_vertex_shader.glsl"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\errormessage.wav",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\.android\\build-cache\\b79d7fef76c4047e1619e0205c4e10177e9f8688\\output\\res\\raw\\errormessage.wav"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\simple_vertex_shader.glsl",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\c22cb0a3b8c8bbd24c03acf63db3298c1598a23b\\output\\res\\raw\\simple_vertex_shader.glsl"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\nxtstartupsound.wav",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4\\output\\res\\raw\\nxtstartupsound.wav"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/errormessage.wav",
-        "source": "/Users/DanielLuo/.android/build-cache/e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4/output/res/raw/errormessage.wav"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\cube_mesh_vertex_shader.glsl",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\c22cb0a3b8c8bbd24c03acf63db3298c1598a23b\\output\\res\\raw\\cube_mesh_vertex_shader.glsl"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\texture_vertex_shader.glsl",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\.android\\build-cache\\3cb378977ccd83adf9fd3245cbdea78f286649d3\\output\\res\\raw\\texture_vertex_shader.glsl"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\simple_vertex_shader.glsl",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\.android\\build-cache\\3cb378977ccd83adf9fd3245cbdea78f286649d3\\output\\res\\raw\\simple_vertex_shader.glsl"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\chimedisconnect.wav",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\f38bd23cf2e3b0389880883bc15a69ce15ec1afb\\output\\res\\raw\\chimedisconnect.wav"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/color_fragment_shader.glsl",
-        "source": "/Users/DanielLuo/.android/build-cache/c22cb0a3b8c8bbd24c03acf63db3298c1598a23b/output/res/raw/color_fragment_shader.glsl"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\warningmessage.wav",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\f38bd23cf2e3b0389880883bc15a69ce15ec1afb\\output\\res\\raw\\warningmessage.wav"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\chimeconnect.wav",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\.android\\build-cache\\b79d7fef76c4047e1619e0205c4e10177e9f8688\\output\\res\\raw\\chimeconnect.wav"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/nxtstartupsound.wav",
-        "source": "/Users/DanielLuo/.android/build-cache/e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4/output/res/raw/nxtstartupsound.wav"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\errormessage.wav",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4\\output\\res\\raw\\errormessage.wav"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/chimedisconnect.wav",
-        "source": "/Users/DanielLuo/.android/build-cache/e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4/output/res/raw/chimedisconnect.wav"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\texture_fragment_shader.glsl",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\c22cb0a3b8c8bbd24c03acf63db3298c1598a23b\\output\\res\\raw\\texture_fragment_shader.glsl"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\chimedisconnect.wav",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4\\output\\res\\raw\\chimedisconnect.wav"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\color_fragment_shader.glsl",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\c22cb0a3b8c8bbd24c03acf63db3298c1598a23b\\output\\res\\raw\\color_fragment_shader.glsl"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\chimeconnect.wav",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\f38bd23cf2e3b0389880883bc15a69ce15ec1afb\\output\\res\\raw\\chimeconnect.wav"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\cube_mesh_vertex_shader.glsl",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\89ef18b93fce65d6cb1bf31bc46508f72129e9f1\\output\\res\\raw\\cube_mesh_vertex_shader.glsl"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\simple_vertex_shader.glsl",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\89ef18b93fce65d6cb1bf31bc46508f72129e9f1\\output\\res\\raw\\simple_vertex_shader.glsl"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\cube_mesh_fragment_shader.glsl",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\c22cb0a3b8c8bbd24c03acf63db3298c1598a23b\\output\\res\\raw\\cube_mesh_fragment_shader.glsl"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/cube_mesh_fragment_shader.glsl",
-        "source": "/Users/DanielLuo/.android/build-cache/c22cb0a3b8c8bbd24c03acf63db3298c1598a23b/output/res/raw/cube_mesh_fragment_shader.glsl"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\texture_vertex_shader.glsl",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\c22cb0a3b8c8bbd24c03acf63db3298c1598a23b\\output\\res\\raw\\texture_vertex_shader.glsl"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/warningmessage.wav",
-        "source": "/Users/DanielLuo/.android/build-cache/e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4/output/res/raw/warningmessage.wav"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\cube_mesh_fragment_shader.glsl",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\89ef18b93fce65d6cb1bf31bc46508f72129e9f1\\output\\res\\raw\\cube_mesh_fragment_shader.glsl"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\nxtstartupsound.wav",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\Nicolas\\.android\\build-cache\\b79d7fef76c4047e1619e0205c4e10177e9f8688\\output\\res\\raw\\nxtstartupsound.wav"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Downloads\\ftc_app-master Nov2017 (3.5)\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\texture_vertex_shader.glsl",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\89ef18b93fce65d6cb1bf31bc46508f72129e9f1\\output\\res\\raw\\texture_vertex_shader.glsl"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\Documents\\GitHub\\FTC-App-Master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\chimeconnect.wav",
-        "source": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/C:\\Users\\DanielLuo\\.android\\build-cache\\e1f25886e8a5c87e9a7d7f4edb5c699270fd73c4\\output\\res\\raw\\chimeconnect.wav"
-    },
-    {
-        "merged": "/Users/DanielLuo/Documents/GitHub/FTC-App-Master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/cube_mesh_vertex_shader.glsl",
-        "source": "/Users/DanielLuo/.android/build-cache/c22cb0a3b8c8bbd24c03acf63db3298c1598a23b/output/res/raw/cube_mesh_vertex_shader.glsl"
+        "merged": "/Users/DanielLuo/Downloads/ftc_app-master Nov2017 (3.5)/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/simple_vertex_shader.glsl",
+        "source": "/Users/DanielLuo/.android/build-cache/89ef18b93fce65d6cb1bf31bc46508f72129e9f1/output/res/raw/simple_vertex_shader.glsl"
     }
 ]
